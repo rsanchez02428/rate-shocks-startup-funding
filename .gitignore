@@ -1,3 +1,13 @@
+# ── Proprietary data (Crunchbase — not licensed for redistribution) ──
+data/raw/fintech/
+data/raw/AI/
+
+# ── Cleaned data (reproducible from notebooks — keeps repo lightweight) ──
+data/cleaned/
+
+# ── Outputs (regenerated on each run) ──
+outputs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
