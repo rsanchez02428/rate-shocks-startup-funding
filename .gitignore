@@ -1,9 +1,9 @@
 # ── Proprietary data (Crunchbase — not licensed for redistribution) ──
-data/raw/fintech/
-data/raw/AI/
+Data/raw/fintech/
+Data/raw/AI/
 
 # ── Cleaned data (reproducible from notebooks — keeps repo lightweight) ──
-data/cleaned/
+Data/cleaned/
 
 # ── Outputs (regenerated on each run) ──
 outputs/
